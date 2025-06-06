@@ -1,0 +1,31 @@
+body {
+  background: coral;
+}
+
+@media screen and (max-width : 1000px) {
+  body {
+    background: blue;
+  }
+}
+
+
+
+@media screen and (max-width : 700px) {
+  body {
+    background: crimson;
+    font-size: 5rem;
+  }
+}
+
+@media screen and (max-width : 500px)  {
+
+body{
+  background-color: #fff;
+}
+
+  h1{
+    border: 4px dotted forestgreen;
+    font-size: 1rem;
+  }
+}
+
